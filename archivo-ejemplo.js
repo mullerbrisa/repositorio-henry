@@ -1,3 +1,3 @@
-var saludar = "hola"
+var saludar = "hola";
 
-var hola = "saludar"
+var hola = "saludar";
